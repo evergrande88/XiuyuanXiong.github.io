@@ -32,7 +32,7 @@ Research Experience
 
 <div style="font-size:16px"><span style="float:right">Jun 2020 ‑ Apr 2021</span> Quantitative Research on China’s Stock Market </div>
 * East China University of Technology 
-* Collected data and preprocessed it, trained different machine learning algorithms using the data, evaluated the model through backtesting, and optimized the model.
+* Collected data and preprocessed it, trained different **machine learning algorithms** using the data, evaluated the model through backtesting, and optimized the model.
 * Developed a real‑time trading system for the Chinese stock market.
 * Supervisor: Associate Professor Wenjuan Zhang and Associate Professor Hua Zeng
   
