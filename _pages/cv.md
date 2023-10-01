@@ -36,6 +36,7 @@ Research Experience
 * East China University of Technology 
 * Collected data and preprocessed it, trained different **machine learning algorithms** using the data, evaluated the model through backtesting, and optimized the model.
 * Developed a real‑time trading system for the Chinese stock market.
+* Technical Skills: **Python**, **Matlab**, **R**
 * Supervisor: Associate Professor Wenjuan Zhang and Associate Professor Hua Zeng
   
 Skills
