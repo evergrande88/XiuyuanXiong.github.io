@@ -45,24 +45,17 @@ Skills
 * Miscellaneous: LaTeX, Origin, GraphPad Prism, Microsoft Office.
 * Language: Mandarin(Native), English.
 
-Publications
+Interests
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Basketball
+* Football
+* Tennis
+* Swimming
+* Combat: Brazilian Jiu‑Jitsu, Filipino martial arts and Tai Ji.
+
+
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
