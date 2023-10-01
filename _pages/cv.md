@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MEd in Sports Science, Beijing Sport University, Sept 2021 ‑ Current
+* BS in Mathematics and Applied Mathematics, East China University of Technology, Sept 2017 ‑ Jul 2021
+
 
 Work experience
 ======
