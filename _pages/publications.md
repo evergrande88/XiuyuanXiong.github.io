@@ -11,7 +11,12 @@ author_profile: true
 
 **Xiuyuan Xiong**, Zhengliang Lin, Yanfei Shen, Kuiying Deng. Evaluation of comprehensive ability of CBA teams based on multiple regression and TOPSIS model. 13th National Sports Science Conference, 2023, Tianjing, China, Poster.         
 
-**Xiuyuan Xiong**, Yanfei Shen, Kuiying DengRobustness analysis of the passing network of Chinese Super League teams in case of random failure. 18th Chinese Conference on Complex Network (CCCN2022), 2022, Zhuhai, China, Oral presentation.
+**Xiuyuan Xiong**, Yanfei Shen, Kuiying DengRobustness analysis of the passing network of Chinese Super League teams in case of random failure. 18th Chinese Conference on Complex Network (CCCN2022), 2022, Zhuhai, China, Oral presentation.        
+
+**Xiuyuan Xiong**, Wenjuan Zhang, Hua Zeng. Multi‑factor investment strategies based on support vector regression. 7th International Conference on Computational and Information Sciences (ICCIS 2019), 2019, Chengdu, China, Oral presentation.     
+
+Yating Zhou, Yixiong Cui, **Xiuyuan Xiong**. Passing performance of teams with low ball possession in the 2022 Qatar World Cup based on social network analysis. 13th National Sports Science Conference, 2023, Tianjing, China, Poster.
+
 
 
 
