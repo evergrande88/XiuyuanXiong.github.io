@@ -17,9 +17,10 @@ Education
 * Courses: Artificial Intelligence in Sport, Sports Statistics, Sports Biomechanics, Sports Physiology, Sports Biochemistry
 * Thesis: Analysis of passing performance of high level football teams based on network science
 
-## East China University of Technology
+## East China University of Technology(Nanchang, China)
 <div style="font-size:16px"><span style="float:right">Sept 2017 ‑ Jul 2021</span>BS in Mathematics and Applied Mathematics </div>
-
+* Courses: Mathematical Statistics and Data Analysis, Mathematical Model, Data Mining, Numerical Analysis, Operations Research, Probability Theory, Fundamentals of C Language Programming, Ordinary Differential Equations, Graph Theory with Applications
+* Thesis: Application of multivariate statistical analysis in modern basketball tactics research
 
 Work experience
 ======
