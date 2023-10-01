@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Conference
-**Xiuyuan Xiong**, Kuiying Deng, Jiale Wu, Yixiong Cui. Distribution pattern analysis of passing and receiving locations during the 2022 FIFA World Cup using the measure of spatial entropy. *International Journal of Performance Analysis in Sport* (Out for review).
 ## Journal Article
+**Xiuyuan Xiong**, Kuiying Deng, Jiale Wu, Yixiong Cui. Distribution pattern analysis of passing and receiving locations during the 2022 FIFA World Cup using the measure of spatial entropy. *International Journal of Performance Analysis in Sport* (Out for review).
+## Conference
 
 
 
