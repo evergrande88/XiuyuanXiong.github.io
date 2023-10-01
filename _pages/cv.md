@@ -28,6 +28,8 @@ Research Experience
 * Beijing Sport University
 * Analysing passing events in the football match using different **complexity science models**.
 * Focusing on **spatiotemporal data** of football matches.
+* We have preliminarily explored the **spatial distribution patterns** of passing and receiving locations in all 2022 FIFA World Cup matches, and improved the construction method of the **passing network**.
+* Technical Skills: **Python**, **Matlab**, **SPSS**, **GraphPad Prism**, **LaTex**.
 * Supervisor: Associate Professor Kuiying Deng and Associate Professor Yixiong Cui
 
 <div style="font-size:16px"><span style="float:right">Jun 2020 ‑ Apr 2021</span> Quantitative Research on China’s Stock Market </div>
