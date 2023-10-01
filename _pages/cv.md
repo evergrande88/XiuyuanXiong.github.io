@@ -22,12 +22,12 @@ Education
 * Courses: Mathematical Statistics and Data Analysis, Mathematical Model, Data Mining, Numerical Analysis, Operations Research, Probability Theory, Fundamentals of C Language Programming, Ordinary Differential Equations, Graph Theory with Applications
 * Thesis: Application of multivariate statistical analysis in modern basketball tactics research
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<div style="font-size:16px"><span style="float:right">Sept 2021 ‑ Current</span> Analysis of football passing performance </div>
+* Beijing Sport University
+* Analysing passing events in the football match using different **mathematical‑physical models**.
+* Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
