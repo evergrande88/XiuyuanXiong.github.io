@@ -24,16 +24,17 @@ Education
 
 Research Experience
 ======
-<div style="font-size:16px"><span style="float:right">Sept 2021 ‑ Current</span> **Analysis of football passing performance** </div>
+<div style="font-size:16px"><span style="float:right">Sept 2021 ‑ Current</span> Analysis of football passing performance </div>
 * Beijing Sport University
 * Analysing passing events in the football match using different **complexity science models**.
 * Focusing on **spatiotemporal data** of football matches.
 * Supervisor: Associate Professor Kuiying Deng and Associate Professor Yixiong Cui
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<div style="font-size:16px"><span style="float:right">Jun 2020 ‑ Apr 2021</span> Quantitative Research on China’s Stock Market </div>
+* East China University of Technology 
+* Collected data and preprocessed it, trained different machine learning algorithms using the data, evaluated the model through backtesting, and optimized the model.
+* Developed a real‑time trading system for the Chinese stock market.
+* Supervisor: Associate Professor Wenjuan Zhang and Associate Professor Hua Zeng
   
 Skills
 ======
