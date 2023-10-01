@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 ## Beijing Sport University
-* MEd in Sports Science, <p align="right">Sept 2021 ‑ Current</p>
+* <div style="font-size:16px"><span style="float:right">Sept 2021 ‑ Current</span>MEd in Sports Science </div>
 * BS in Mathematics and Applied Mathematics, East China University of Technology, Sept 2017 ‑ Jul 2021
 
 
