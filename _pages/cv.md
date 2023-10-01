@@ -24,7 +24,7 @@ Education
 
 Research Experience
 ======
-<div style="font-size:16px"><span style="float:right">Sept 2021 ‑ Current</span> Analysis of football passing performance </div>
+<div style="font-size:16px"><span style="float:right">Sept 2021 ‑ Current</span> **Analysis of football passing performance** </div>
 * Beijing Sport University
 * Analysing passing events in the football match using different **mathematical‑physical models**.
 * Supervisor: Professor Git
