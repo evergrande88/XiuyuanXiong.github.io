@@ -39,16 +39,20 @@ Research Experience
 * Technical Skills: **Python**, **Matlab**, **R**
 * Supervisor: Associate Professor Wenjuan Zhang and Associate Professor Hua Zeng
 
+University Projects
+======
+
+
 
 
 Academic Appointment
 ======
 <div style="font-size:16px"><span style="float:right">Feb 2023 ‑ Jun 2023</span> Beijing Sport university </div>
-Teaching Assistant
+Teaching Assistant    
 Courses: Multivariate Statistical Analysis
 
 <div style="font-size:16px"><span style="float:right">Sept 2022 ‑ Dec 2022</span> Beijing Sport university </div>
-Teaching Assistant
+Teaching Assistant    
 Courses: Probability Theory and Mathematical Statistics
   
 Skills
