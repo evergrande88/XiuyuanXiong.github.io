@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 ## Beijing Sport University(Beijing, China)
-* <div style="font-size:16px"><span style="float:right">Sept 2021 ‑ Current</span>MEd in Sports Science </div>
+<div style="font-size:16px"><span style="float:right">Sept 2021 ‑ Current</span>MEd in Sports Science </div>
 * GPA：91.84/100
 * Courses: Artificial Intelligence in Sport, Sports Statistics, Sports Biomechanics, Sports Physiology, Sports Biochemistry
 * Thesis: Analysis of passing performance of high level football teams based on network science
 
 ## East China University of Technology
-* <div style="font-size:16px"><span style="float:right">Sept 2017 ‑ Jul 2021</span>BS in Mathematics and Applied Mathematics </div>
+<div style="font-size:16px"><span style="float:right">Sept 2017 ‑ Jul 2021</span>BS in Mathematics and Applied Mathematics </div>
 
 
 Work experience
