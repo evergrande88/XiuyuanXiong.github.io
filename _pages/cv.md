@@ -45,15 +45,19 @@ University Projects
 * Tennis performance analysis based on video analysis.   
 * Collected and analysed the **spatiotemporal data** of male players in the 2022 and 2023 Australian Open.
 
+<div style="font-size:16px"><span style="float:right">Spet 2022 ‑ Jun 2023</span> Football Big data System </div>
+* Collected football match data using **Python** and **Catapult**.    
+* Designed of the player and team rating system based on **machine learning algorithms**.
+* Data visualization.
 
 Academic Appointment
 ======
 <div style="font-size:16px"><span style="float:right">Feb 2023 ‑ Jun 2023</span> Beijing Sport university </div>
-Teaching Assistant    
+**Teaching Assistant**  
 Courses: Multivariate Statistical Analysis
 
 <div style="font-size:16px"><span style="float:right">Sept 2022 ‑ Dec 2022</span> Beijing Sport university </div>
-Teaching Assistant    
+**Teaching Assistant** 
 Courses: Probability Theory and Mathematical Statistics
   
 Skills
