@@ -57,7 +57,7 @@ Academic Appointment
 Courses: Multivariate Statistical Analysis
 
 <div style="font-size:16px"><span style="float:right">Sept 2022 ‑ Dec 2022</span> Beijing Sport university </div>
-**Teaching Assistant** 
+**Teaching Assistant**     
 Courses: Probability Theory and Mathematical Statistics
   
 Skills
