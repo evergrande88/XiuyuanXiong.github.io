@@ -42,7 +42,7 @@ Research Experience
 University Projects
 ======
 <div style="font-size:22px"><span style="float:right">Jul 2023 ‑ current</span> Tennis performance analysis </div>
-* Tennis performance analysis based on video analysis.   
+* Tennis performance analysis based on **video analysis**.   
 * Collected and analysed the **spatiotemporal data** of male players in the 2022 and 2023 Australian Open.
 
 <div style="font-size:22px"><span style="float:right">Spet 2022 ‑ Jun 2023</span> Football Big data System </div>
