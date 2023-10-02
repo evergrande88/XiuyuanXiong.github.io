@@ -1,6 +1,6 @@
 ---
 
-
+permalink: /terms/
 
 ---
 {% include base_path %}
