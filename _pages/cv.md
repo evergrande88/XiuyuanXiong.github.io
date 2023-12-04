@@ -54,19 +54,19 @@ Academic Appointment
 ======
 <div style="font-size:22px"><span style="float:right">Oct 2023 ‑ Nov 2023</span> Beijing Sport university </div>
 **Teaching Assistant**  
-*Courses: Sports Performance Data Analysis
-*Teacher: Prof. Miguel Ángel Gómez Ruano
+* Courses: Sports Performance Data Analysis
+* Teacher: Prof. Miguel Ángel Gómez Ruano
 
 <div style="font-size:22px"><span style="float:right">Feb 2023 ‑ Jun 2023</span> Beijing Sport university </div>
 **Teaching Assistant**  
-*Courses: Multivariate Statistical Analysis
-*Teacher: Dr. Kuiying Deng
+* Courses: Multivariate Statistical Analysis
+* Teacher: Dr. Kuiying Deng
 
 
 <div style="font-size:22px"><span style="float:right">Sept 2022 ‑ Dec 2022</span> Beijing Sport university </div>
 **Teaching Assistant**     
-*Courses: Probability Theory and Mathematical Statistics
-*Teacher: Dr. Kuiying Deng
+* Courses: Probability Theory and Mathematical Statistics
+* Teacher: Dr. Kuiying Deng
   
 Skills
 ======
