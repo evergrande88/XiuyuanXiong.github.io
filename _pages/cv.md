@@ -45,7 +45,11 @@ University Projects
 * Tennis performance analysis based on **video analysis**.   
 * Collected and analysed the **spatiotemporal data** of male players in the 2022 and 2023 Australian Open.
 
-<div style="font-size:22px"><span style="float:right">Spet 2022 ‑ Jun 2023</span> Football Big data System </div>
+<div style="font-size:22px"><span style="float:right">Jul 2022 ‑ Jun 2023</span> The evaluation of ice hockey protective gear comfort </div>
+* Using inertial motion capture systems **(Perception Neuron Studio)**.   
+* Using optical motion capture systems **(OptiTrack)**.
+
+<div style="font-size:22px"><span style="float:right">Spet 2021 ‑ Jun 2022</span> Football Big data System </div>
 * Collected football match data using **Python** and **Catapult**.    
 * Designed of the player and team rating system based on **machine learning algorithms**.
 * Data visualization.
